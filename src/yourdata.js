@@ -16,9 +16,9 @@ export default
         //Contact Email
         contactEmail:'shub.123433@gmail.com',
         // Add Your About Text Here
-        aboutText:"Hi, my name is Shubham Sharma. I'm a software engineer based in Ahmedabad, Gujarat. I am a problem solver and a true globalist. I specialized in MERN stack along with Python, and SQL database. Check out my work below and get in touch!",
+        abouttext:"Hi my name is Shubham Sharma. I'm a software engineer based in Ahmedabad, Gujarat. I am a problem solver and a true globalist. I specialized in MERN stack along with Python, and SQL database. Check out my work below and get in touch!",
        //Change This To Hide The Image of About Section (True Or False)
-          aboutImage:"https://i.imgur.com/XY71oSN.jpg",
+          aboutImage:"https://i.imgur.com/YQIVgCE.jpg",
        ShowAboutImage:true,//true or false (Change Here)
        // Change Projects Here 
        Resume:
