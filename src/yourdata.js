@@ -18,7 +18,7 @@ export default
         // Add Your About Text Here
         abouttext:"Hi my name is Shubham Sharma. I'm a software engineer based in Ahmedabad, Gujarat. I am a problem solver and a true globalist. I specialized in MERN stack along with Python, and SQL database. Check out my work below and get in touch!",
        //Change This To Hide The Image of About Section (True Or False)
-          aboutImage:"https://i.imgur.com/YQIVgCE.jpg",
+          aboutImage:"https://i.imgur.com/ypHJM11.jpg",
        ShowAboutImage:true,//true or false (Change Here)
        // Change Projects Here 
        Resume:
