@@ -6,7 +6,7 @@ export default
         headerTagline: [//Line 1 For Header
                         'Hi 👋 You found me! I am  Shubham Sharma.',
                         //Line 2 For Header
-                        ' Mern Stack Developer',
+                        ' Full Stack Developer',
                         //Line 3 For Header
     ],
 
@@ -16,10 +16,9 @@ export default
         //Contact Email
         contactEmail:'shub.123433@gmail.com',
         // Add Your About Text Here
-        abouttext: "Hi, my name is Shubham Sharma. I'm a software engineer based in Ahmedabad, gujrat. I am a problem solver and a true globalist.  I recently transitioned to software development.  I specialized in MERN stack along with react,node js,express and SQL database. Check out my work below and get in touch!",
+        aboutText:"Hi, my name is Shubham Sharma. I'm a software engineer based in Ahmedabad, Gujarat. I am a problem solver and a true globalist. I specialized in MERN stack along with Python, and SQL database. Check out my work below and get in touch!",
        //Change This To Hide The Image of About Section (True Or False)
-       aboutImage:"https://lh3.googleusercontent.com/I5xlbh5uzXQkRaWqg1WJps_YIe8Hveg3IDT36yR-gZcyELfExcdtJcHivS11Rv5hoWQVMuQA22Z_SCd-zbIGOEzEZoaEwztXRUmMhelgKMdGY-icZZOksowy6eXGMIavqKCO8bU-kf2ba3mIygRboUeEq6tbxdGUzWpMnAtO3WWNpOSsrJzxWJmtVJcLBYinWPnbxNZY6QKmI_nhikW8-EIMU7UAyS15KLis0WoK-GLYgriMocnlh1_OkcrZ444A4SCsGswbxr-JfFAzB176EAJnhpw2MTEI_p0XatF88VrDrv3Nm25J1SJ5Wr_Bkagp_NnTnwJe5xS0S0Sqb3jJC4qawY9Dksg_bvQ4qLgsUOBnTqoXSTCHO3zoWUqCJtGv8RX9qRliEOZQc3VIYPCLCUECqMyFB6iYaH3Ld6G8x4fD_fPWNpBwysfsdiiq3Q3TKGg1HsPLoeZ13ibC7XavbrrF2TeHQzwpZZt8lgN2ddafHobcMenThryTIoYlpxR9CNXEUK6XowIAp1NaH9MkVJ0-37Uzl4C_I6kjeA9J2SeQIX2dCYi0-sYNjJnk4QXZRknOnUt2Mok_JeTC3_3i0k6_n9-UuY4Z_8Ca5AgFk_6MuGtCHDCAtNFzlP1dlYJG28ClrqYw8KsvE7MtVub3a2SAX9HiITYn-jzLu_qec_ev58JXWUrH9XhiIZRrvQ=w1232-h1642-no?authuser=0,width:100%",
-
+   aboutimage:"",
        ShowAboutImage:true,//true or false (Change Here)
        // Change Projects Here 
        Resume:
@@ -36,8 +35,8 @@ export default
             title:'Find Band ', //Project Title - Add Your Project Title Here
              service:'React Website Development', // Add Your Service Type Here
             //Project Image - Add Your Project Image Here
-            imageSrc:"https://lh3.googleusercontent.com/QBHp9gOID2c_yORXTFZz1lP0pL0PqBXqERc-srPedAWd8BmpviPNmZXSs72QmwBjdaHVtgIWwhxtNjdzPRKVr6fWeOnRpCRHMHeqBYRdZyzQolk68SN64n8t6YXZHsT3vHlbPu0M2ASUIsZDPWmc9NvqQlMgPx-Tf5F8-9oCzUvc8i8Lxyqfamcg3DhdmbMkzJ4BXqq-IVMnfQqJcqCdvsaJziSj8EriJodV1_Kdp4P6BaodGXK_gKVRA3idcRKFBMFBjDco_M3XswrG1FJcts0JbcqYuBWLs8vwXewPycj3qxIy3e9mQSQyDDY8BJWrsQqNLmJ__wLSpZmUIz2FrgCGV10udsOaz4vgNH2et63ti-6ZLmyeWVsC3ePUe_Ot-OQYCCR9DBinXw-8oQPURTGAlKYHlDiLmPUNsNAIF1KdZmFmlCCghCCmJXBgd_mmUSD5DnCHgwRy31LfYxyt-Ol35878yMpZqi8i6Ka_YO7iAd4h71BrUYO_I8EXFIOHsFrT2wprCAlPBKFTcqkUYUTPEHXO0p_LNdDdV4nqlSJY6e6LIwlLg0t5gJ5rP_GMPCAozfqiShg5sSoHM9Pz96yZ2rBooJz-biHCNezDT_KtNtQQo0DaumypZKKGsW2FIP1DNNNFXMh8IYVYNNqztctjEVoycjXtX53GB-LrJriYiOj5voaiCqSGLD-apg=w739-h1642-no?authuser=0",
-             //Project URL - Add Your Project Url Here
+              imageSrc:"https://i.imgur.com/mWR2m5p.png",            
+               //Project URL - Add Your Project Url Here
              url:'https://bandes.herokuapp.com//',
              githuburl:"https://github.com/shub12133/band"
             },
