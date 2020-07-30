@@ -47,7 +47,6 @@ export default
                 service: 'React Website Development',
                 imageSrc:"https://imgur.com/T2nsuoz",            
                 url: 'https://eventcal111.herokuapp.com/',
-                githuburl:"https://github.com/shub12133/devconnect",
             },
             
             
