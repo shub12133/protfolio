@@ -45,7 +45,7 @@ export default
                 id: 3,//DO NOT CHANGE THIS (Please)😅
                 title: 'Event Calendar',
                 service: 'React Website Development',
-                imageSrc: "https://imgur.com/a/CfLryG5",            
+                imageSrc: "https://imgur.com/a/CfLryG5.jpg",            
                 url: 'https://eventcal111.herokuapp.com/'
             },
             
