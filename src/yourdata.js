@@ -46,7 +46,7 @@ export default
                 title: 'Event Calendar',
                 service: 'React Website Development',
                 imageSrc: "https://imgur.com/a/CfLryG5",            
-                url: 'https://eventcal111.herokuapp.com/',
+                url: 'https://eventcal111.herokuapp.com/'
             },
             
             
