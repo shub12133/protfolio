@@ -41,6 +41,15 @@ export default
                 url: 'https://deveeee.herokuapp.com//',
                 githuburl:"https://github.com/shub12133/devconnect",
             },
+            {
+                id: 3,//DO NOT CHANGE THIS (Please)😅
+                title: 'Event-Calendar',
+                service: 'React Website Development',
+                imageSrc:"https://imgur.com/T2nsuoz",            
+                url: 'https://eventcal111.herokuapp.com/',
+                githuburl:"https://github.com/shub12133/devconnect",
+            },
+            
             
                     /*
 
@@ -68,7 +77,7 @@ export default
             },
             {
             name: 'Resume',
-            url: 'https://drive.google.com/file/d/1iblBIvQQRSDFqycOCKXdmLEpHw6iwFsy/view?usp=sharing'
+            url: 'https://drive.google.com/file/d/1H6sCCoC86e0jBw9k_9dMcUxJqnnas8Yg/view?usp=sharing'
         },
 
 
