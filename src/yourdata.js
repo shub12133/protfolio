@@ -76,7 +76,7 @@ export default
             },
             {
             name: 'Resume',
-            url: 'https://drive.google.com/file/d/1H6sCCoC86e0jBw9k_9dMcUxJqnnas8Yg/view?usp=sharing'
+            url: 'https://drive.google.com/file/d/1z9A387vbRdVQ2tSHuRd4H_RaJB53gwMk/view?usp=sharing'
         },
 
 
